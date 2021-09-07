@@ -1,3 +1,4 @@
-测试测试
-I love u!
-8308 yyds!
+#include "stdio.h"
+int main(){
+  printf("helloworld").
+}
